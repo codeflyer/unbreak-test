@@ -1,0 +1,22 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeflyer/unbreak-test.git"
+  },
+  "author": "Davide Fiorello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeflyer/unbreak-test/issues"
+  },
+  "homepage": "https://github.com/codeflyer/unbreak-test#readme",
+  "dependencies": {
+    "jest": "29.5.0"
+  }
+}

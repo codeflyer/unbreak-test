@@ -1,0 +1,13 @@
+node_modules
+.eslintcache
+.env
+test.http
+coverage
+
+# JetBrains IDEs
+.idea
+# Visual Studio Code
+.vscode
+
+# OS X
+.DS_Store
