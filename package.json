@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/codeflyer/unbreak-test#readme",
   "dependencies": {
+    "@angular/common": "^15.2.5",
     "@angular/forms": "^15.2.5",
     "@playwright/test": "^1.32.1",
     "@slidev/cli": "^0.40.3",
